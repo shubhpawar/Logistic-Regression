@@ -140,7 +140,7 @@ def main():
     plotTrainingData(X_train, y_train)
     
     # number of iterations
-    iterations = 1
+    iterations = 10000
     
     # learning rate
     alpha = 0.1
